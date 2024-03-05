@@ -1,4 +1,4 @@
-<p align="center"> <img width="1176" alt="MoodTracksLogo" src="https://github.com/Billy-Rowden/Mood-Journal-Generator/assets/150028191/9f2549d5-a78a-4fad-a977-853a56f4a3d0">
+<p align="center"> <img width="522" alt="MoodTracksLogo" src="https://github.com/Billy-Rowden/Mood-Journal-Generator/assets/150028191/ee0a9306-3a56-4ed6-b2cf-06fa33deba00">
 
 # MoodTracks
 
