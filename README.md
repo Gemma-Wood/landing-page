@@ -68,4 +68,5 @@ Licensed under MIT.
 ![badmath](https://img.shields.io/badge/MIT%20-%20License%20-%20green)
 ![badmath](https://img.shields.io/badge/bootstrap-purple)
 ![badmath](https://img.shields.io/badge/JavaScript-green)
+![badmath](https://img.shields.io/badge/React-blue)
 
